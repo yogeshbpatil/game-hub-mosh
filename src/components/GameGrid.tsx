@@ -14,7 +14,7 @@ const GameGrid = () => {
         spacing={10}
       >
         {games.map((game) => (
-          // kljl
+          // kljlhdd
           <GameCard key={game.id} game={game} />
         ))}
       </SimpleGrid>
